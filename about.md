@@ -1,1 +1,2 @@
-"# Over mij\n\nDit is mijn persoonlijke pagina." 
+# Over mij
+Dit is mijn persoonlijke pagina.
