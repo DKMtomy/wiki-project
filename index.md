@@ -1,1 +1,1 @@
-"# Mijn Wiki" 
+-e "# Mijn Wiki\n\n- [Personages](personages.md)\n- [Verhaal](verhaal.md)\n- [Locaties](locaties.md)" 
